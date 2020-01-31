@@ -5,3 +5,4 @@
 <h3 align="center">currently still in progress, updates are coming </h3> <br><br> 
 
 ![alt text](https://github.com/ChRIisS97/Solar-Dashboard/blob/master/Top%20View.png)
+Sneak pic what it would look like 
