@@ -4,5 +4,6 @@
 
 <h3 align="center">currently still in progress, updates are coming </h3> <br><br> 
 
-![alt text](https://github.com/ChRIisS97/Solar-Dashboard/blob/master/Top%20View.png)
-Sneak pic what it would look like 
+
+![alt text](https://github.com/ChRIisS97/Solar-Dashboard/blob/master/Desktop%20Version%20Darkmode%20%E2%80%93%202.png)
+Sneak pic what it is
